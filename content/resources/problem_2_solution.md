@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-085-computational-science-and-engineering-i-summer-2020/807cbab5599a681ff690ab5978b9e19a_problem_2_solution.m
+file: /media/courses/18-085-computational-science-and-engineering-i-summer-2020/807cbab5599a681ff690ab5978b9e19a_problem_2_solution.m
 file_type: text/x-objcsrc
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: problem_2_solution.m
 uid: 807cbab5-599a-681f-f690-ab5978b9e19a

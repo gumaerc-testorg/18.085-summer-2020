@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 3d867acd-8a66-c40c-704b-3744e87e88e2
 ---
@@ -31,7 +34,7 @@ LECTURE NOTES
 {{< tdopen >}}
 Review of Linear Algebra
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 1 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w1)
 {{< tdclose >}}
 
@@ -73,7 +76,7 @@ Review of Linear Algebra (cont.)
 {{< tdopen >}}
 Differences, Derivatives, and Boundary Conditions
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 2 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w2)
 {{< tdclose >}}
 
@@ -115,7 +118,7 @@ Eigenvalues and Eigenvectors
 {{< tdopen >}}
 Positive Definite Matrices and Least Squares
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 3 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w3)
 {{< tdclose >}}
 
@@ -157,7 +160,7 @@ Equilibrium and the Stiffness Matrix
 {{< tdopen >}}
 Oscillation by Newton’s Law I
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 4 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w4)
 {{< tdclose >}}
 
@@ -199,7 +202,7 @@ Graph Models and Kirchhoff’s Laws
 {{< tdopen >}}
 Damped Harmonic Oscillators and the Laplace Transform I
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 5 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w5)
 {{< tdclose >}}
 
@@ -241,7 +244,7 @@ Review of Vector Calculus I
 {{< tdopen >}}
 Review of Vector Calculus II; Fourier Series
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 6 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w6)
 {{< tdclose >}}
 
@@ -283,7 +286,7 @@ Polar Coordinates and Laplace’s Equation
 {{< tdopen >}}
 Laplace’s Equation and Separation of Variables
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 7 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w7)
 {{< tdclose >}}
 
@@ -325,7 +328,7 @@ The Finite Element Method I
 {{< tdopen >}}
 The Finite Element Method II
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 8 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w8)
 {{< tdclose >}}
 
@@ -367,7 +370,7 @@ The Discrete Fourier Transform and the FFT II
 {{< tdopen >}}
 Convolution and Signal Processing
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 9 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w9)
 {{< tdclose >}}
 
