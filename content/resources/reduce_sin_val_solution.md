@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 12d2b394-4057-1956-a27b-4f3dfe56f484
 resourcetype: Other
 title: reduce_sin_val_solution.m
 uid: 59ebf24c-5f1d-aac9-2e85-6e39cee52c53

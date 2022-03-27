@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3d867acd-8a66-c40c-704b-3744e87e88e2
 resourcetype: Document
 title: '18.085 Summer 2020 Lecture Notes: Wave Energy Generation'
 uid: 520e2bda-9f4b-8644-c940-fcf7acdad34e

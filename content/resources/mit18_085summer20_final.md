@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3eaf949b-cad3-6f54-03ab-0f7bd558566e
 resourcetype: Document
 title: 18.085 Summer 2020 Final Exam
 uid: c39c66d8-6c3d-cd04-630c-cd9155493245

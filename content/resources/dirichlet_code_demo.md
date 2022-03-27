@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 12d2b394-4057-1956-a27b-4f3dfe56f484
 resourcetype: Other
 title: dirichlet_code_demo.m
 uid: c2d05a49-8031-587e-0914-c3fa11c059d5

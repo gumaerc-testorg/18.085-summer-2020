@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3d867acd-8a66-c40c-704b-3744e87e88e2
 resourcetype: Other
 title: MIT18_085Summer20_lec_JS.ppsx
 uid: b2b85153-ff21-26e2-1070-72cc960f0567

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 12d2b394-4057-1956-a27b-4f3dfe56f484
 resourcetype: Document
 title: 18.085 Summer 2020 Problem Set 4
 uid: 1755ddc6-0fb9-d0f2-ca34-4f1dcfc70f69
