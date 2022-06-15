@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-085-computational-science-and-engineering-i-summer-2020/348b19290c32933df64e8cf0e56d3197_MIT18_085Summer20_PS1_sol.pdf
+file: /courses/18-085-computational-science-and-engineering-i-summer-2020/348b19290c32933df64e8cf0e56d3197_MIT18_085Summer20_PS1_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

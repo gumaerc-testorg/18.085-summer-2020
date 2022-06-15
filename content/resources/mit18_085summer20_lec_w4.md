@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-085-computational-science-and-engineering-i-summer-2020/b1743654e72946982b5c380d02b607f0_MIT18_085Summer20_lec_w4.pdf
+file: /courses/18-085-computational-science-and-engineering-i-summer-2020/b1743654e72946982b5c380d02b607f0_MIT18_085Summer20_lec_w4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

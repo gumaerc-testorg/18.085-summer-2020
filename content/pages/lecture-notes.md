@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section includes lecture notes from the instructor and guest lecturers. '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -35,7 +36,7 @@ LECTURE NOTES
 Review of Linear Algebra
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 1 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w1)
+{{% resource_link 8e58e55c-8180-9d67-3d9a-29ac6422fc8d "Week 1 Lecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +78,7 @@ Review of Linear Algebra (cont.)
 Differences, Derivatives, and Boundary Conditions
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 2 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w2)
+{{% resource_link a9dff2e9-b8b4-85b6-1af2-7e6039a791bb "Week 2 Lecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +120,7 @@ Eigenvalues and Eigenvectors
 Positive Definite Matrices and Least Squares
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 3 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w3)
+{{% resource_link cb1b3358-b208-b0ac-473c-b608a927f509 "Week 3 Lecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +162,7 @@ Equilibrium and the Stiffness Matrix
 Oscillation by Newton’s Law I
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 4 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w4)
+{{% resource_link b1743654-e729-4698-2b5c-380d02b607f0 "Week 4 Lecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +204,7 @@ Graph Models and Kirchhoff’s Laws
 Damped Harmonic Oscillators and the Laplace Transform I
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 5 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w5)
+{{% resource_link df1d12d8-7dbb-3fa8-f675-86ced1476642 "Week 5 Lecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +246,7 @@ Review of Vector Calculus I
 Review of Vector Calculus II; Fourier Series
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 6 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w6)
+{{% resource_link 28fe7467-dcf5-a37a-5527-b6a76a1c7f5e "Week 6 Lecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +288,7 @@ Polar Coordinates and Laplace’s Equation
 Laplace’s Equation and Separation of Variables
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 7 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w7)
+{{% resource_link 3710ae37-6bc3-8588-cef8-6d2762c3e3b2 "Week 7 Lecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -329,7 +330,7 @@ The Finite Element Method I
 The Finite Element Method II
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 8 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w8)
+{{% resource_link 09f79374-56dc-9935-a7b6-87e03fa100a9 "Week 8 Lecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -371,7 +372,7 @@ The Discrete Fourier Transform and the FFT II
 Convolution and Signal Processing
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 9 Lecture (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_w9)
+{{% resource_link 4079629e-948c-8092-cc05-354dae99e81b "Week 9 Lecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -426,23 +427,23 @@ Guest Lectures:
 {{< tdopen >}}
 
 
-[Signal Processing and FT Application (PDF - 4.3MB)]({{< baseurl >}}/resources/mit18_085summer20_lec_mc-1) (Used with permission.)
+{{% resource_link f99d7579-8cef-a8c7-96e6-b3899bd88e8f "Signal Processing and FT Application (PDF - 4.3MB)" %}} (Used with permission.)
 
-[Signal Processing and FT Application (PPTX - 12.5MB)]({{< baseurl >}}/resources/mit18_085summer20_lec_mc) (Used with permission.)
+{{% resource_link b3eb5b93-8bb1-dbb9-f9a0-d74ab95c9a90 "Signal Processing and FT Application (PPTX - 12.5MB)" %}} (Used with permission.)
 
-[Numerical Differentiation and Thunderstorm Research (PDF - 1.4MB)]({{< baseurl >}}/resources/mit18_085summer20_lec_mf) (Used with permission.) 
+{{% resource_link d69f1c91-81b6-7460-6a8e-31bef6e4617c "Numerical Differentiation and Thunderstorm Research (PDF - 1.4MB)" %}} (Used with permission.) 
 
-[Solving Linear Equation _Ax_ = _b_: Techniques and Examples (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_sj) (Used with permission.)
+{{% resource_link ca7a84c2-19f9-cc39-53d6-775c15c6ab5b "Solving Linear Equation _Ax_ = _b_: Techniques and Examples (PDF)" %}} (Used with permission.)
 
-[Dynamical Systems and Traffic Control (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_cl) (Used with permission.)
+{{% resource_link 9791db95-171b-564c-3f93-894d7e051d14 "Dynamical Systems and Traffic Control (PDF)" %}} (Used with permission.)
 
-[Dynamical Systems and Traffic Control (PPTX - 1.8MB)]({{< baseurl >}}/resources/mit18_085summer20_lec_cl-1) (Used with permission.)
+{{% resource_link 7e76dd15-d766-8505-c1d4-dab6403d9bf3 "Dynamical Systems and Traffic Control (PPTX - 1.8MB)" %}} (Used with permission.)
 
-[Finite Element Modeling of the Detachment of Soft Adhesives (PDF - 1.4MB)]({{< baseurl >}}/resources/mit18_085summer20_lec_er) (Used with permission.)
+{{% resource_link 03385313-c1d6-7aae-2fd4-9bdd6d040b32 "Finite Element Modeling of the Detachment of Soft Adhesives (PDF - 1.4MB)" %}} (Used with permission.)
 
-[Wave Energy Generation (PDF - 2.3MB)]({{< baseurl >}}/resources/mit18_085summer20_lec_js-1) (Used with permission.)
+{{% resource_link 520e2bda-9f4b-8644-c940-fcf7acdad34e "Wave Energy Generation (PDF - 2.3MB)" %}} (Used with permission.)
 
-[Wave Energy Generation (PPSX - 3.2MB)]({{< baseurl >}}/resources/mit18_085summer20_lec_js) (Used with permission.) \[For image credit, see [Wave Energy Generation (PDF - 2.3MB)]({{< baseurl >}}/resources/mit18_085summer20_lec_js-1).\]
+{{% resource_link b2b85153-ff21-26e2-1070-72cc960f0567 "Wave Energy Generation (PPSX - 3.2MB)" %}} (Used with permission.) \[For image credit, see {{% resource_link 520e2bda-9f4b-8644-c940-fcf7acdad34e "Wave Energy Generation (PDF - 2.3MB)" %}}.\]
 
 
 {{< tdclose >}}
@@ -460,7 +461,7 @@ Guest Lectures:
 Special Topic: Deep Learning/Double Descent by Prof. Gilbert Strang
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Deep Learning/Double Descent (PDF)]({{< baseurl >}}/resources/mit18_085summer20_lec_gs) (Used with permission.)
+{{% resource_link 22a453f2-f41f-9c34-ad27-4b7d7da9a0aa "Deep Learning/Double Descent (PDF)" %}} (Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

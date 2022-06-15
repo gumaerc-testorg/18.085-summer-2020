@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-085-computational-science-and-engineering-i-summer-2020/d3871ae67d6a86d19c4628779234e374_MIT18_085Summer20_mid_sol.pdf
+file: /courses/18-085-computational-science-and-engineering-i-summer-2020/d3871ae67d6a86d19c4628779234e374_MIT18_085Summer20_mid_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

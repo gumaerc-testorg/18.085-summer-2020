@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-085-computational-science-and-engineering-i-summer-2020/59ebf24c5f1daac92e856e39cee52c53_reduce_sin_val_solution.m
+file: /courses/18-085-computational-science-and-engineering-i-summer-2020/59ebf24c5f1daac92e856e39cee52c53_reduce_sin_val_solution.m
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments

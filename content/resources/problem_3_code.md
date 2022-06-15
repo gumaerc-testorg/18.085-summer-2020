@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-085-computational-science-and-engineering-i-summer-2020/570cfef886ded909683bae61de400f65_Problem_3_Code.zip
+file: /courses/18-085-computational-science-and-engineering-i-summer-2020/570cfef886ded909683bae61de400f65_Problem_3_Code.zip
 file_type: application/zip
 learning_resource_types:
 - Assignments
