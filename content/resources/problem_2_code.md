@@ -5,6 +5,7 @@ file: /courses/18-085-computational-science-and-engineering-i-summer-2020/3e8d7c
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

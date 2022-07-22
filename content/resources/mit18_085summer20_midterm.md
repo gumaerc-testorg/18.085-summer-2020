@@ -5,6 +5,7 @@ file: /courses/18-085-computational-science-and-engineering-i-summer-2020/7a0b42
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

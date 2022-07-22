@@ -5,6 +5,7 @@ file: /courses/18-085-computational-science-and-engineering-i-summer-2020/b2b851
 file_type: application/vnd.openxmlformats-officedocument.presentationml.slideshow
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
