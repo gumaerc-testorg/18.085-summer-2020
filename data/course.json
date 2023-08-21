@@ -35,7 +35,7 @@
     "website": "18-085-computational-science-and-engineering-i-summer-2020"
   },
   "course_title": "Computational Science and Engineering I",
-  "course_description": "This course provides the fundamental computational toolbox for solving science and engineering problems. Topics include review of linear algebra, applications to networks, structures, estimation, finite difference and finite element solutions of differential equations, Laplace's equation and potential flow, boundary-value problems, Fourier series, the discrete Fourier transform, and convolution.\u00a0We will also explore many topics in AI and machine learning throughout the course.\n",
+  "course_description": "This course provides the fundamental computational toolbox for solving science and engineering problems. Topics include review of linear algebra, applications to networks, structures, estimation, finite difference and finite element solutions of differential equations, Laplace's equation and potential flow, boundary-value problems, Fourier series, the discrete Fourier transform, and convolution. We will also explore many topics in AI and machine learning throughout the course.",
   "department_numbers": [
     "18"
   ],
@@ -48,8 +48,9 @@
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "6e0948ce-d423-4c8f-bdda-68550db2e49f",
+  "site_uid": "f5b8170f-478e-4348-bb1f-c80b59aad6f6",
   "title": "Course Metadata"
 }
