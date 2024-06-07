@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-085-computational-science-and-engineering-i-summer-2020/da48aa61cc7d59269bfa37a848b1f52e_MIT18_085Summer20_key_ideas.pdf
+file_size: 218379
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
