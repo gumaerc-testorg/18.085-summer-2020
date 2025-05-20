@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-summer-2020/59ebf24c5f1daac92e856e39cee52c53_reduce_sin_val_solution.m
+file: /courses/18-085-computational-science-and-engineering-i-summer-2020/59ebf24c5f1daac92e856e39cee52c53_reduce_sin_val_solution.m
 file_size: 214
 file_type: text/x-objcsrc
 learning_resource_types:
