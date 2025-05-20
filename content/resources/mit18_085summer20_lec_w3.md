@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-summer-2020/cb1b3358b208b0ac473cb608a927f509_MIT18_085Summer20_lec_w3.pdf
+file: /courses/18-085-computational-science-and-engineering-i-summer-2020/cb1b3358b208b0ac473cb608a927f509_MIT18_085Summer20_lec_w3.pdf
 file_size: 308139
 file_type: application/pdf
 learning_resource_types:
