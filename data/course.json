@@ -35,6 +35,8 @@
     "website": "18-085-computational-science-and-engineering-i-summer-2020"
   },
   "course_title": "Computational Science and Engineering I",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course provides the fundamental computational toolbox for solving science and engineering problems. Topics include review of linear algebra, applications to networks, structures, estimation, finite difference and finite element solutions of differential equations, Laplace's equation and potential flow, boundary-value problems, Fourier series, the discrete Fourier transform, and convolution. We will also explore many topics in AI and machine learning throughout the course.",
   "department_numbers": [
     "18"
@@ -49,9 +51,11 @@
     "Problem Sets with Solutions",
     "Exams with Solutions",
     "Lecture Notes",
-    "Instructor Insights"
+    "Instructor Insights",
+    "Editable Files"
   ],
   "site_uid": "f5b8170f-478e-4348-bb1f-c80b59aad6f6",
   "site_short_id": "18.085-summer-2020",
+  "site_url_path": "courses/18-085-computational-science-and-engineering-i-summer-2020",
   "title": "Course Metadata"
 }
