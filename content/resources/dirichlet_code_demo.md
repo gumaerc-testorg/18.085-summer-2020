@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-085-computational-science-and-engineering-i-summer-2020/c2d05a498031587e0914c3fa11c059d5_dirichlet_code_demo.m
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-summer-2020/c2d05a498031587e0914c3fa11c059d5_dirichlet_code_demo.m
 file_size: 2301
 file_type: text/x-objcsrc
 learning_resource_types:
