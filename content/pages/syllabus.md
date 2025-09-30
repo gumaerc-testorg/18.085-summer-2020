@@ -27,7 +27,7 @@ This course provides the fundamental computational toolbox for solving science a
 Textbook
 --------
 
-Strang, Gilbert. _[Computational Science and Engineering](http://math.mit.edu/~gs/cse/)_. Wellesley, MA: Wellesley-Cambridge Press, 2007. ISBN: 9780961408817.
+Strang, Gilbert. _{{% resource_link "012a6b9c-4779-409a-863b-f89aba7bfb7e" "Computational Science and Engineering" %}}_. Wellesley, MA: Wellesley-Cambridge Press, 2007. ISBN: 9780961408817.
 
 Problem Sets
 ------------
