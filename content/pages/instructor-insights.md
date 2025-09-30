@@ -20,7 +20,7 @@ Below, Dr. Chengzhao “Richard” Zhang describes various aspects of how he tau
 
 My philosophy of the subject is one of “practical rigor.” I want students to build first-principled thinking of mathematics and computation, while never losing sight of the applications and connections to their respective engineering disciplines. Students should know why the center-difference method for numerical differentiation is second-order. At the same time, they should be aware of how it’s applied in modern-day research in atmospheric science.
 
-This philosophy follows very closely that of Professor Gil Strang and President Rafael Reif in his recent founding of [MIT’s Schwarzman College of Computing](https://computing.mit.edu/). My respected mentor Prof. Strang is one of the frontrunners of modern computational science and engineering research and education. He’s a strong advocate of developing his teaching of rigorous mathematics around practical subjects, as is evident in his course [_18.065: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning_](/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018). At the same time, President Reif, in forming the Schwarzman College, emphasizes the importance of training “bilingual” students, who are well-versed both in their own studies and in AI and computation.
+This philosophy follows very closely that of Professor Gil Strang and President Rafael Reif in his recent founding of {{% resource_link "49080bd9-3abe-4b14-8e77-121684597064" "MIT’s Schwarzman College of Computing" %}}. My respected mentor Prof. Strang is one of the frontrunners of modern computational science and engineering research and education. He’s a strong advocate of developing his teaching of rigorous mathematics around practical subjects, as is evident in his course [_18.065: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning_](/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018). At the same time, President Reif, in forming the Schwarzman College, emphasizes the importance of training “bilingual” students, who are well-versed both in their own studies and in AI and computation.
 
 {{< quote "Connecting class materials with real-world applications is critical to the success of a student's experience in this course." "— Chengzhao “Richard” Zhang" >}}
 
@@ -71,7 +71,7 @@ It was extremely refreshing for students to see how the mathematics they learned
 
 ### Requirements Satisfied
 
-18.085 can be applied toward a [Bachelor’s of Science in Mathematics](https://math.mit.edu/academics/undergrad/major/course18/general.php), but is not required.
+18.085 can be applied toward a {{% resource_link "b9c05044-d9d3-44de-91fb-e1ac7b249b6a" "Bachelor’s of Science in Mathematics" %}}, but is not required.
 
 ### Offered
 
